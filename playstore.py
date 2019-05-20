@@ -6,7 +6,6 @@ import pandas as pd
 browser = webdriver.Chrome("C:\\Users\\Windows 10 Pro\\Downloads\\chromedriver")
 
 #google playstore app id url here
-#read readme files to learn how to get any app id url
 app_url_id ="https://play.google.com/store/apps/details?id=com.tencent.ig"
 review_list = []
 
